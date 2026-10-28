@@ -1,0 +1,2415 @@
+{
+  "settings": {
+    "bot_config": {
+      "admins": [
+        6343655743,
+        8708065446,
+        8950675524
+      ],
+      "panels": [
+        {
+          "name": "Mino x penel",
+          "type": "API Panel",
+          "status": "OFF",
+          "api_url": "https://minosms.com",
+          "token": "mino_live_99d88b012e37d9a06794986b3206cac3",
+          "records": 0
+        }
+      ],
+      "fw_groups": [
+        {
+          "chat_id": "-1004318902900",
+          "buttons": []
+        }
+      ],
+      "otp_link": "https://t.me/+Z0oaxEPjZuM4YzI1",
+      "withdraw_on": true,
+      "min_withdraw": 55.0,
+      "otp_reward": 0.0,
+      "refer_reward": 0.2,
+      "cooldown": 0,
+      "num_req": 3,
+      "num_share": 1,
+      "support_link": "https://t.me/+UOjJErT_l604Mzc1",
+      "w_methods": [
+        "bKash",
+        "Nagad"
+      ],
+      "w_group": "",
+      "stex_keys": [
+        "MY1MDDWVZYO"
+      ],
+      "voltx_keys": [],
+      "stex_services": {
+        "🖥 PC CLONE": {
+          "🇦🇲 ARMAINA FIRE ❤️‍🔥": [
+            "374558XXX"
+          ],
+          "🇧🇪 BELGIUM": [
+            "324685XXX"
+          ]
+        },
+        "FACEBOOK NEW 🔥": {
+          "🇨🇲 CAMEROON": [
+            "2376240XXX"
+          ],
+          "🇫🇷 FRANCE": [
+            "336531",
+            "336539"
+          ]
+        }
+      },
+      "voltx_services": {},
+      "fj_on": false,
+      "fj_channels": [
+        "@psmethod10"
+      ],
+      "zebrasms_keys": [
+        "YJQVNZTMECV"
+      ],
+      "zebrasms_services": {},
+      "yesms_keys": [],
+      "yesms_services": {},
+      "stex_service_rates": {
+        "🖥 PC CLONE": {
+          "🇦🇲 ARMAINA FIRE ❤️‍🔥": 0.05,
+          "🇧🇪 BELGIUM": 0.05
+        },
+        "FACEBOOK NEW 🔥": {
+          "🇨🇲 CAMEROON": 0.04,
+          "🇫🇷 FRANCE": 0.5
+        }
+      },
+      "voltx_service_rates": {},
+      "zebrasms_service_rates": {},
+      "yesms_service_rates": {},
+      "premium_flags": {
+        "1": {
+          "char": "🇺🇸",
+          "iso": "US",
+          "name": "United States",
+          "id": 5294244076533600593
+        },
+        "880": {
+          "char": "🇧🇩",
+          "iso": "BD",
+          "name": "Bangladesh",
+          "id": 5291824687096027834
+        },
+        "91": {
+          "char": "🇮🇳",
+          "iso": "IN",
+          "name": "India",
+          "id": 5291933173674957761
+        },
+        "92": {
+          "char": "🇵🇰",
+          "iso": "PK",
+          "name": "Pakistan",
+          "id": 5291825606219029010
+        },
+        "44": {
+          "char": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+          "iso": "GB",
+          "name": "Wales",
+          "id": 5294139949346476093
+        },
+        "93": {
+          "char": "🇦🇫",
+          "iso": "AF",
+          "name": "Afghanistan",
+          "id": 5291937511591925566
+        },
+        "358": {
+          "char": "🇫🇮",
+          "iso": "FI",
+          "name": "Finland",
+          "id": 5294049961191690629
+        },
+        "355": {
+          "char": "🇦🇱",
+          "iso": "AL",
+          "name": "Albania",
+          "id": 5294202819077756005
+        },
+        "213": {
+          "char": "🇩🇿",
+          "iso": "DZ",
+          "name": "Algeria",
+          "id": 5294048127240655242
+        },
+        "376": {
+          "char": "🇦🇩",
+          "iso": "AD",
+          "name": "Andorra",
+          "id": 5294215205763434181
+        },
+        "244": {
+          "char": "🇦🇴",
+          "iso": "AO",
+          "name": "Angola",
+          "id": 5294516785482062829
+        },
+        "54": {
+          "char": "🇦🇷",
+          "iso": "AR",
+          "name": "Argentina",
+          "id": 5292208210495689627
+        },
+        "374": {
+          "char": "🇦🇲",
+          "iso": "AM",
+          "name": "Armenia",
+          "id": 5291978717508164018
+        },
+        "297": {
+          "char": "🇦🇼",
+          "iso": "AW",
+          "name": "Aruba",
+          "id": 5294007002928798927
+        },
+        "61": {
+          "char": "🇦🇺",
+          "iso": "AU",
+          "name": "Australia",
+          "id": 5294444247779399477
+        },
+        "43": {
+          "char": "🇦🇹",
+          "iso": "AT",
+          "name": "Austria",
+          "id": 5291975174160145850
+        },
+        "994": {
+          "char": "🇦🇿",
+          "iso": "AZ",
+          "name": "Azerbaijan",
+          "id": 5294323533428579078
+        },
+        "973": {
+          "char": "🇧🇭",
+          "iso": "BH",
+          "name": "Bahrain",
+          "id": 5294108398516720753
+        },
+        "375": {
+          "char": "🇧🇾",
+          "iso": "BY",
+          "name": "Belarus",
+          "id": 5294134426018536120
+        },
+        "32": {
+          "char": "🇧🇪",
+          "iso": "BE",
+          "name": "Belgium",
+          "id": 5291774466043435275
+        },
+        "501": {
+          "char": "🇧🇿",
+          "iso": "BZ",
+          "name": "Belize",
+          "id": 5294171848068584842
+        },
+        "229": {
+          "char": "🇧🇯",
+          "iso": "BJ",
+          "name": "Benin",
+          "id": 5293984969746566866
+        },
+        "975": {
+          "char": "🇧🇹",
+          "iso": "BT",
+          "name": "Bhutan",
+          "id": 5294121983498277263
+        },
+        "591": {
+          "char": "🇧🇴",
+          "iso": "BO",
+          "name": "Bolivia",
+          "id": 5294201479047957700
+        },
+        "267": {
+          "char": "🇧🇼",
+          "iso": "BW",
+          "name": "Botswana",
+          "id": 5294026179957772585
+        },
+        "55": {
+          "char": "🇧🇷",
+          "iso": "BR",
+          "name": "Brazil",
+          "id": 5291892229751723900
+        },
+        "673": {
+          "char": "🇧🇳",
+          "iso": "BN",
+          "name": "Brunei",
+          "id": 5292098293692650297
+        },
+        "359": {
+          "char": "🇧🇬",
+          "iso": "BG",
+          "name": "Bulgaria",
+          "id": 5294308947719640437
+        },
+        "226": {
+          "char": "🇧🇫",
+          "iso": "BF",
+          "name": "Burkina Faso",
+          "id": 5294153164960848949
+        },
+        "257": {
+          "char": "🇧🇮",
+          "iso": "BI",
+          "name": "Burundi",
+          "id": 5294051631933967760
+        },
+        "855": {
+          "char": "🇰🇭",
+          "iso": "KH",
+          "name": "Cambodia",
+          "id": 5294225191562400452
+        },
+        "237": {
+          "char": "🇨🇲",
+          "iso": "CM",
+          "name": "Cameroon",
+          "id": 5291997306126626950
+        },
+        "238": {
+          "char": "🇨🇻",
+          "iso": "CV",
+          "name": "Cape Verde",
+          "id": 5292203503211535593
+        },
+        "236": {
+          "char": "🇨🇫",
+          "iso": "CF",
+          "name": "Central African Republic",
+          "id": 5294210571493724819
+        },
+        "235": {
+          "char": "🇹🇩",
+          "iso": "TD",
+          "name": "Chad",
+          "id": 5291780728105753403
+        },
+        "56": {
+          "char": "🇨🇱",
+          "iso": "CL",
+          "name": "Chile",
+          "id": 5294231037012888049
+        },
+        "86": {
+          "char": "🇨🇳",
+          "iso": "CN",
+          "name": "China",
+          "id": 5294068833277990704
+        },
+        "57": {
+          "char": "🇨🇴",
+          "iso": "CO",
+          "name": "Colombia",
+          "id": 5294010206974397371
+        },
+        "269": {
+          "char": "🇰🇲",
+          "iso": "KM",
+          "name": "Comoros",
+          "id": 5294351381996521508
+        },
+        "242": {
+          "char": "🇨🇬",
+          "iso": "CG",
+          "name": "Congo",
+          "id": 5294035229453865597
+        },
+        "682": {
+          "char": "🇨🇰",
+          "iso": "CK",
+          "name": "Cook Islands",
+          "id": 5292098684534675100
+        },
+        "506": {
+          "char": "🇨🇷",
+          "iso": "CR",
+          "name": "Costa Rica",
+          "id": 5292063805105263554
+        },
+        "385": {
+          "char": "🇭🇷",
+          "iso": "HR",
+          "name": "Croatia",
+          "id": 5291999676948569127
+        },
+        "53": {
+          "char": "🇨🇺",
+          "iso": "CU",
+          "name": "Cuba",
+          "id": 5291963947115631526
+        },
+        "357": {
+          "char": "🇨🇾",
+          "iso": "CY",
+          "name": "Cyprus",
+          "id": 5294062721539526918
+        },
+        "420": {
+          "char": "🇨🇿",
+          "iso": "CZ",
+          "name": "Czechia",
+          "id": 5294242852467923382
+        },
+        "225": {
+          "char": "🇨🇮",
+          "iso": "CI",
+          "name": "Côte d'Ivoire (Ivory Coast)",
+          "id": 5293991322003200135
+        },
+        "45": {
+          "char": "🇩🇰",
+          "iso": "DK",
+          "name": "Denmark",
+          "id": 5294531860817268837
+        },
+        "253": {
+          "char": "🇩🇯",
+          "iso": "DJ",
+          "name": "Djibouti",
+          "id": 5294127214768468283
+        },
+        "593": {
+          "char": "🇪🇨",
+          "iso": "EC",
+          "name": "Ecuador",
+          "id": 5292083733753517221
+        },
+        "20": {
+          "char": "🇪🇬",
+          "iso": "EG",
+          "name": "Egypt",
+          "id": 5293992082212409502
+        },
+        "503": {
+          "char": "🇸🇻",
+          "iso": "SV",
+          "name": "El Salvador",
+          "id": 5294337307388695687
+        },
+        "240": {
+          "char": "🇬🇶",
+          "iso": "GQ",
+          "name": "Equatorial Guinea",
+          "id": 5292170045416297012
+        },
+        "291": {
+          "char": "🇪🇷",
+          "iso": "ER",
+          "name": "Eritrea",
+          "id": 5291922054004625949
+        },
+        "372": {
+          "char": "🇪🇪",
+          "iso": "EE",
+          "name": "Estonia",
+          "id": 5291951143818123103
+        },
+        "268": {
+          "char": "🇸🇿",
+          "iso": "SWAZILAND",
+          "name": "Eswatini       (SZ)",
+          "id": 5294312482477724867
+        },
+        "251": {
+          "char": "🇪🇹",
+          "iso": "ET",
+          "name": "Ethiopia",
+          "id": 5292245976143124155
+        },
+        "33": {
+          "char": "🇫🇷",
+          "iso": "FR",
+          "name": "France",
+          "id": 5291817660529533837
+        },
+        "241": {
+          "char": "🇬🇦",
+          "iso": "GA",
+          "name": "Gabon",
+          "id": 5294321325815389139
+        },
+        "220": {
+          "char": "🇬🇲",
+          "iso": "GM",
+          "name": "Gambia",
+          "id": 5294399820637688352
+        },
+        "995": {
+          "char": "🇬🇪",
+          "iso": "GE",
+          "name": "Georgia",
+          "id": 5294349389131697267
+        },
+        "49": {
+          "char": "🇩🇪",
+          "iso": "DE",
+          "name": "Germany",
+          "id": 5292013274815028523
+        },
+        "233": {
+          "char": "🇬🇭",
+          "iso": "GH",
+          "name": "Ghana",
+          "id": 5294347396266873249
+        },
+        "350": {
+          "char": "🇬🇮",
+          "iso": "GI",
+          "name": "Gibraltar",
+          "id": 5292055799286224027
+        },
+        "30": {
+          "char": "🇬🇷",
+          "iso": "GR",
+          "name": "Greece",
+          "id": 5291948395039054764
+        },
+        "299": {
+          "char": "🇬🇱",
+          "iso": "GL",
+          "name": "Greenland",
+          "id": 5292014752283774878
+        },
+        "502": {
+          "char": "🇬🇹",
+          "iso": "GT",
+          "name": "Guatemala",
+          "id": 5294336633078831209
+        },
+        "224": {
+          "char": "🇬🇳",
+          "iso": "GN",
+          "name": "Guinea",
+          "id": "5291892096607739008"
+        },
+        "245": {
+          "char": "🇬🇼",
+          "iso": "GW",
+          "name": "Guinea-Bissau",
+          "id": 5294409819321550432
+        },
+        "592": {
+          "char": "🇬🇾",
+          "iso": "GY",
+          "name": "Guyana",
+          "id": 5292062692708736193
+        },
+        "509": {
+          "char": "🇭🇹",
+          "iso": "HT",
+          "name": "Haiti",
+          "id": 5292045130587462814
+        },
+        "504": {
+          "char": "🇭🇳",
+          "iso": "HN",
+          "name": "Honduras",
+          "id": 5291901034434682297
+        },
+        "852": {
+          "char": "🇭🇰",
+          "iso": "HK",
+          "name": "Hong Kong",
+          "id": 5292166459118606932
+        },
+        "36": {
+          "char": "🇭🇺",
+          "iso": "HU",
+          "name": "Hungary",
+          "id": 5294229581018975260
+        },
+        "354": {
+          "char": "🇮🇸",
+          "iso": "IS",
+          "name": "Iceland",
+          "id": 5294354358408859664
+        },
+        "62": {
+          "char": "🇮🇩",
+          "iso": "ID",
+          "name": "Indonesia",
+          "id": 5433884376838454074
+        },
+        "98": {
+          "char": "🇮🇷",
+          "iso": "IR",
+          "name": "Iran, Islamic Republic Of",
+          "id": 5294220170745630736
+        },
+        "964": {
+          "char": "🇮🇶",
+          "iso": "IQ",
+          "name": "Iraq",
+          "id": 5294325010897327367
+        },
+        "353": {
+          "char": "🇮🇪",
+          "iso": "IE",
+          "name": "Ireland",
+          "id": 5294471971793293647
+        },
+        "972": {
+          "char": "🇮🇱",
+          "iso": "IL",
+          "name": "Israel",
+          "id": 5294069056616289553
+        },
+        "39": {
+          "char": "🇮🇹",
+          "iso": "IT",
+          "name": "Italy",
+          "id": 5291826830284709120
+        },
+        "81": {
+          "char": "🇯🇵",
+          "iso": "JP",
+          "name": "Japan",
+          "id": 5291799063321139445
+        },
+        "962": {
+          "char": "🇯🇴",
+          "iso": "JO",
+          "name": "Jordan",
+          "id": 5291988613112814801
+        },
+        "7": {
+          "char": "🇰🇿",
+          "iso": "KZ",
+          "name": "Kazakhstan",
+          "id": 5294227175837290463
+        },
+        "254": {
+          "char": "🇰🇪",
+          "iso": "KE",
+          "name": "Kenya",
+          "id": 5292111852904416801
+        },
+        "686": {
+          "char": "🇰🇮",
+          "iso": "KI",
+          "name": "Kiribati",
+          "id": 5294538934628405146
+        },
+        "850": {
+          "char": "🇰🇵",
+          "iso": "KP",
+          "name": "Korea, Democratic People's Republic of",
+          "id": 5294193812531333564
+        },
+        "965": {
+          "char": "🇰🇼",
+          "iso": "KW",
+          "name": "Kuwait",
+          "id": 5292066437920218075
+        },
+        "996": {
+          "char": "🇰🇬",
+          "iso": "KG",
+          "name": "Kyrgyzstan",
+          "id": 5292091954320922577
+        },
+        "856": {
+          "char": "🇱🇦",
+          "iso": "LA",
+          "name": "Lao People's Democratic Republic",
+          "id": 5291981530711746037
+        },
+        "371": {
+          "char": "🇱🇻",
+          "iso": "LV",
+          "name": "Latvia",
+          "id": 5292236016113966127
+        },
+        "961": {
+          "char": "🇱🇧",
+          "iso": "LB",
+          "name": "Lebanon",
+          "id": 5294193108156699621
+        },
+        "266": {
+          "char": "🇱🇸",
+          "iso": "LS",
+          "name": "Lesotho",
+          "id": 5292040693886247604
+        },
+        "231": {
+          "char": "🇱🇷",
+          "iso": "LR",
+          "name": "Liberia",
+          "id": 5291793810576137439
+        },
+        "218": {
+          "char": "🇱🇾",
+          "iso": "LY",
+          "name": "Libya",
+          "id": 5291858711826946840
+        },
+        "423": {
+          "char": "🇱🇮",
+          "iso": "LI",
+          "name": "Liechtenstein",
+          "id": 5292048742654957785
+        },
+        "370": {
+          "char": "🇱🇹",
+          "iso": "LT",
+          "name": "Lithuania",
+          "id": 5294343084119708700
+        },
+        "352": {
+          "char": "🇱🇺",
+          "iso": "LU",
+          "name": "Luxembourg",
+          "id": 5294423709245787718
+        },
+        "261": {
+          "char": "🇲🇬",
+          "iso": "MG",
+          "name": "Madagascar",
+          "id": 5291991568050312348
+        },
+        "265": {
+          "char": "🇲🇼",
+          "iso": "MW",
+          "name": "Malawi",
+          "id": 5294241881805312589
+        },
+        "60": {
+          "char": "🇲🇾",
+          "iso": "MY",
+          "name": "Malaysia",
+          "id": 5291858351049696702
+        },
+        "960": {
+          "char": "🇲🇻",
+          "iso": "MV",
+          "name": "Maldives",
+          "id": 5292004203844097218
+        },
+        "223": {
+          "char": "🇲🇱",
+          "iso": "ML",
+          "name": "Mali",
+          "id": 5292086972158858331
+        },
+        "356": {
+          "char": "🇲🇹",
+          "iso": "MT",
+          "name": "Malta",
+          "id": 5294532213004588353
+        },
+        "692": {
+          "char": "🇲🇭",
+          "iso": "MH",
+          "name": "Marshall Islands",
+          "id": 5294180730060954484
+        },
+        "222": {
+          "char": "🇲🇷",
+          "iso": "MR",
+          "name": "Mauritania",
+          "id": 5294429743674840973
+        },
+        "230": {
+          "char": "🇲🇺",
+          "iso": "MU",
+          "name": "Mauritius",
+          "id": 5294127824653797277
+        },
+        "52": {
+          "char": "🇲🇽",
+          "iso": "MX",
+          "name": "Mexico",
+          "id": 5294535073452809778
+        },
+        "691": {
+          "char": "🇫🇲",
+          "iso": "FM",
+          "name": "Micronesia, Federated States of",
+          "id": 5291838156113470124
+        },
+        "373": {
+          "char": "🇲🇩",
+          "iso": "MD",
+          "name": "Moldova, Republic of",
+          "id": 5294158486425325375
+        },
+        "377": {
+          "char": "🇲🇨",
+          "iso": "MC",
+          "name": "Monaco",
+          "id": 5294378161117614233
+        },
+        "976": {
+          "char": "🇲🇳",
+          "iso": "MN",
+          "name": "Mongolia",
+          "id": 5294316532631883496
+        },
+        "212": {
+          "char": "🇲🇦",
+          "iso": "MA",
+          "name": "Morocco",
+          "id": 5292108962391414885
+        },
+        "258": {
+          "char": "🇲🇿",
+          "iso": "MZ",
+          "name": "Mozambique",
+          "id": 5294086708931874940
+        },
+        "95": {
+          "char": "🇲🇲",
+          "iso": "MM",
+          "name": "Myanmar",
+          "id": 5294254478944393569
+        },
+        "264": {
+          "char": "🇳🇦",
+          "iso": "NA",
+          "name": "Namibia",
+          "id": 5292021761670404922
+        },
+        "674": {
+          "char": "🇳🇷",
+          "iso": "NR",
+          "name": "Nauru",
+          "id": 5294463274484521342
+        },
+        "977": {
+          "char": "🇳🇵",
+          "iso": "NP",
+          "name": "Nepal",
+          "id": 5294458756178924088
+        },
+        "31": {
+          "char": "🇳🇱",
+          "iso": "NL",
+          "name": "Netherlands",
+          "id": 5291917797692042265
+        },
+        "64": {
+          "char": "🇳🇿",
+          "iso": "NZ",
+          "name": "New Zealand",
+          "id": 5294189019347833274
+        },
+        "505": {
+          "char": "🇳🇮",
+          "iso": "NI",
+          "name": "Nicaragua",
+          "id": 5294240825243358100
+        },
+        "227": {
+          "char": "🇳🇪",
+          "iso": "NE",
+          "name": "Niger",
+          "id": 5291809418487290691
+        },
+        "234": {
+          "char": "🇳🇬",
+          "iso": "NG",
+          "name": "Nigeria",
+          "id": 5294456308047563965
+        },
+        "683": {
+          "char": "🇳🇺",
+          "iso": "NU",
+          "name": "Niue",
+          "id": 5294471336138134209
+        },
+        "47": {
+          "char": "🇳🇴",
+          "iso": "NO",
+          "name": "Norway",
+          "id": 5291761718580502030
+        },
+        "968": {
+          "char": "🇴🇲",
+          "iso": "OM",
+          "name": "Oman",
+          "id": 5291813666209946812
+        },
+        "970": {
+          "char": "🇵🇸",
+          "iso": "PS",
+          "name": "Palestinian Territory, Occupied",
+          "id": 5294289826525238172
+        },
+        "507": {
+          "char": "🇵🇦",
+          "iso": "PA",
+          "name": "Panama",
+          "id": 5291959935616178405
+        },
+        "675": {
+          "char": "🇵🇬",
+          "iso": "PG",
+          "name": "Papua New Guinea",
+          "id": 5291917995260533077
+        },
+        "595": {
+          "char": "🇵🇾",
+          "iso": "PY",
+          "name": "Paraguay",
+          "id": 5294525611639852679
+        },
+        "51": {
+          "char": "🇵🇪",
+          "iso": "PE",
+          "name": "Peru",
+          "id": 5292099427564018941
+        },
+        "63": {
+          "char": "🇵🇭",
+          "iso": "PH",
+          "name": "Philippines",
+          "id": 5291798075478661634
+        },
+        "48": {
+          "char": "🇵🇱",
+          "iso": "PL",
+          "name": "Poland",
+          "id": 5292190970496963836
+        },
+        "351": {
+          "char": "🇵🇹",
+          "iso": "PT",
+          "name": "Portugal",
+          "id": 5294436555492973610
+        },
+        "974": {
+          "char": "🇶🇦",
+          "iso": "QA",
+          "name": "Qatar",
+          "id": 5292166360334357676
+        },
+        "389": {
+          "char": "🇲🇰",
+          "iso": "MK",
+          "name": "Republic of North Macedonia",
+          "id": 5294023611567332075
+        },
+        "40": {
+          "char": "🇷🇴",
+          "iso": "RO",
+          "name": "Romania",
+          "id": 5294107724206856227
+        },
+        "79": {
+          "char": "🇷🇺",
+          "iso": "RU",
+          "name": "Russian Federation",
+          "id": 5294335323113807278
+        },
+        "250": {
+          "char": "🇷🇼",
+          "iso": "RW",
+          "name": "Rwanda",
+          "id": 5294191265615729158
+        },
+        "378": {
+          "char": "🇸🇲",
+          "iso": "SM",
+          "name": "San Marino",
+          "id": 5292147350809106831
+        },
+        "239": {
+          "char": "🇸🇹",
+          "iso": "ST",
+          "name": "Sao Tome and Principe",
+          "id": 5292183188016222701
+        },
+        "966": {
+          "char": "🇸🇦",
+          "iso": "SA",
+          "name": "Saudi Arabia",
+          "id": 5294163983983463099
+        },
+        "221": {
+          "char": "🇸🇳",
+          "iso": "SN",
+          "name": "Senegal",
+          "id": 5292087023698466689
+        },
+        "381": {
+          "char": "🇷🇸",
+          "iso": "RS",
+          "name": "Serbia",
+          "id": 5294458584380230360
+        },
+        "248": {
+          "char": "🇸🇨",
+          "iso": "SC",
+          "name": "Seychelles",
+          "id": 5291891186074672309
+        },
+        "232": {
+          "char": "🇸🇱",
+          "iso": "SL",
+          "name": "Sierra Leone",
+          "id": 5294494314213167952
+        },
+        "65": {
+          "char": "🇸🇬",
+          "iso": "SG",
+          "name": "Singapore",
+          "id": 5294451304410663668
+        },
+        "421": {
+          "char": "🇸🇰",
+          "iso": "SK",
+          "name": "Slovakia",
+          "id": 5294538440707166931
+        },
+        "386": {
+          "char": "🇸🇮",
+          "iso": "SI",
+          "name": "Slovenia",
+          "id": 5294279359689938006
+        },
+        "677": {
+          "char": "🇸🇧",
+          "iso": "SB",
+          "name": "Solomon Islands",
+          "id": 5294283890880433237
+        },
+        "252": {
+          "char": "🇸🇴",
+          "iso": "SO",
+          "name": "Somalia",
+          "id": 5294058817414255960
+        },
+        "27": {
+          "char": "🇿🇦",
+          "iso": "ZA",
+          "name": "South Africa",
+          "id": 5294325281480266304
+        },
+        "82": {
+          "char": "🇰🇷",
+          "iso": "KR",
+          "name": "South Korea",
+          "id": 5294408281723262763
+        },
+        "211": {
+          "char": "🇸🇸",
+          "iso": "SS",
+          "name": "South Sudan",
+          "id": 5224618146949773268
+        },
+        "34": {
+          "char": "🇪🇸",
+          "iso": "ES",
+          "name": "Spain",
+          "id": 5294513087515216901
+        },
+        "94": {
+          "char": "🇱🇰",
+          "iso": "LK",
+          "name": "Sri Lanka",
+          "id": 5292102670264328257
+        },
+        "249": {
+          "char": "🇸🇩",
+          "iso": "SD",
+          "name": "Sudan",
+          "id": 5294177148058228060
+        },
+        "597": {
+          "char": "🇸🇷",
+          "iso": "SR",
+          "name": "Suriname",
+          "id": 5294396668131692138
+        },
+        "46": {
+          "char": "🇸🇪",
+          "iso": "SE",
+          "name": "Sweden",
+          "id": 5291737091238026321
+        },
+        "41": {
+          "char": "🇨🇭",
+          "iso": "CH",
+          "name": "Switzerland",
+          "id": 5291791748991835084
+        },
+        "963": {
+          "char": "🇸🇾",
+          "iso": "SY",
+          "name": "Syrian Arab Republic",
+          "id": 5294013428199869487
+        },
+        "886": {
+          "char": "🇹🇼",
+          "iso": "TW",
+          "name": "Taiwan",
+          "id": 5294095745543069603
+        },
+        "992": {
+          "char": "🇹🇯",
+          "iso": "TJ",
+          "name": "Tajikistan",
+          "id": 5294120269806328883
+        },
+        "255": {
+          "char": "🇹🇿",
+          "iso": "TZ",
+          "name": "Tanzania, United Republic of",
+          "id": 5292146096678658977
+        },
+        "66": {
+          "char": "🇹🇭",
+          "iso": "TH",
+          "name": "Thailand",
+          "id": 5293994384314882755
+        },
+        "228": {
+          "char": "🇹🇬",
+          "iso": "TG",
+          "name": "Togo",
+          "id": 5294097669688415562
+        },
+        "676": {
+          "char": "🇹🇴",
+          "iso": "TO",
+          "name": "Tonga",
+          "id": 5294283689016973348
+        },
+        "216": {
+          "char": "🇹🇳",
+          "iso": "TN",
+          "name": "Tunisia",
+          "id": 5294484680601521871
+        },
+        "90": {
+          "char": "🇹🇷",
+          "iso": "TR",
+          "name": "Turkey",
+          "id": 5293993400767367408
+        },
+        "993": {
+          "char": "🇹🇲",
+          "iso": "TM",
+          "name": "Turkmenistan",
+          "id": 5294098958178603764
+        },
+        "256": {
+          "char": "🇺🇬",
+          "iso": "UG",
+          "name": "Uganda",
+          "id": 5294192317882716626
+        },
+        "380": {
+          "char": "🇺🇦",
+          "iso": "UA",
+          "name": "Ukraine",
+          "id": 5294263837678131580
+        },
+        "971": {
+          "char": "🇦🇪",
+          "iso": "AE",
+          "name": "United Arab Emirates",
+          "id": 5294314831824835370
+        },
+        "598": {
+          "char": "🇺🇾",
+          "iso": "UY",
+          "name": "Uruguay",
+          "id": 5291928449210932974
+        },
+        "998": {
+          "char": "🇺🇿",
+          "iso": "UZ",
+          "name": "Uzbekistan",
+          "id": 5294217645304864345
+        },
+        "678": {
+          "char": "🇻🇺",
+          "iso": "VU",
+          "name": "Vanuatu",
+          "id": 5294448585696368047
+        },
+        "58": {
+          "char": "🇻🇪",
+          "iso": "VE",
+          "name": "Venezuela",
+          "id": 5294476442854247878
+        },
+        "84": {
+          "char": "🇻🇳",
+          "iso": "VN",
+          "name": "Vietnam",
+          "id": 5294235963340379688
+        },
+        "967": {
+          "char": "🇾🇪",
+          "iso": "YE",
+          "name": "Yemen",
+          "id": 5294058972033076492
+        },
+        "260": {
+          "char": "🇿🇲",
+          "iso": "ZM",
+          "name": "Zambia",
+          "id": 5294100109229838880
+        },
+        "263": {
+          "char": "🇿🇼",
+          "iso": "ZW",
+          "name": "Zimbabwe",
+          "id": 5294422158762592930
+        },
+        "382": {
+          "char": "🇲🇪",
+          "iso": "ME",
+          "name": "Montenegro",
+          "id": "5913239436157522151"
+        }
+      },
+      "premium_apps": {
+        "FACEBOOK": {
+          "char": "📘",
+          "id": "5429172110520003976",
+          "name": "Facebook"
+        },
+        "WHATSAPP": {
+          "char": "💬",
+          "id": "5429612632430654504",
+          "name": "WhatsApp"
+        },
+        "TELEGRAM": {
+          "char": "✈️",
+          "id": "5429136513831057777",
+          "name": "Telegram"
+        },
+        "IMO": {
+          "char": "💭",
+          "id": "5431378937731129128",
+          "name": "Imo"
+        },
+        "INSTAGRAM": {
+          "char": "📸",
+          "id": "5429478178479447442",
+          "name": "Instagram"
+        },
+        "APPLE": {
+          "char": "🍎",
+          "id": "5429336539047962614",
+          "name": "Apple"
+        },
+        "GOOGLE": {
+          "char": "🔍",
+          "id": "5429558795015593080",
+          "name": "Google"
+        },
+        "MICROSOFT": {
+          "char": "🪟",
+          "id": "5979047775470358891",
+          "name": "Microsoft"
+        },
+        "TEAMS": {
+          "char": "🧑‍🤝‍🧑",
+          "id": "5334590977837403844",
+          "name": "Teams"
+        },
+        "TIKTOK": {
+          "char": "🎵",
+          "id": "5429132656950419591",
+          "name": "Tiktok"
+        },
+        "BKASH": {
+          "char": "🏦",
+          "id": "5431552076452766597",
+          "name": "Bkash"
+        },
+        "ROCKET": {
+          "char": "🚀",
+          "id": "5429089836126482766",
+          "name": "Rocket"
+        },
+        "BYBIT": {
+          "char": "📈",
+          "id": "5431361212401098715",
+          "name": "Bybit"
+        },
+        "BINANCE": {
+          "char": "💱",
+          "id": "5429438106434575354",
+          "name": "Binance"
+        },
+        "MELBET": {
+          "char": "🌟",
+          "id": "5429331891893346811",
+          "name": "Melbet"
+        },
+        "SNAPCHAT": {
+          "char": "👻",
+          "id": "5429398137468919845",
+          "name": "Snapchat"
+        },
+        "UBER": {
+          "char": "🚗",
+          "id": "5298715455316303708",
+          "name": "Uber"
+        },
+        "PAYPAL": {
+          "char": "💵",
+          "id": "5776103539872896061",
+          "name": "PayPal"
+        },
+        "DISCORD": {
+          "char": "🎬",
+          "id": "5429594374524676604",
+          "name": "Discord"
+        },
+        "AMAZON": {
+          "char": "🌟",
+          "id": "5431358656895568355",
+          "name": "Amazon"
+        },
+        "VIBER": {
+          "char": "💜",
+          "id": "5429470576387335368",
+          "name": "Viber"
+        },
+        "LINKEDIN": {
+          "char": "💼",
+          "id": "5431404810614119306",
+          "name": "Linkedin"
+        },
+        "LINE": {
+          "char": "🔒",
+          "id": "5429143334239115731",
+          "name": "Line"
+        },
+        "WECHAT": {
+          "char": "🌟",
+          "id": "5429349522734097728",
+          "name": "Wechat"
+        },
+        "TWITTER": {
+          "char": "🐦",
+          "id": "5431899135580087595",
+          "name": "Twitter"
+        },
+        "REDDIT": {
+          "char": "👽",
+          "id": "4992421103847604984",
+          "name": "Reddit"
+        },
+        "PINTEREST": {
+          "char": "📌",
+          "id": "5346103513120258857",
+          "name": "Pinterest"
+        },
+        "TWITCH": {
+          "char": "🎮",
+          "id": "5233333563306301418",
+          "name": "Twitch"
+        },
+        "ZOOM": {
+          "char": "📹",
+          "id": "5881799193219043268",
+          "name": "Zoom"
+        },
+        "SIGNAL": {
+          "char": "💬",
+          "id": "5293998404404272267",
+          "name": "Signal"
+        },
+        "SLACK": {
+          "char": "💻",
+          "id": "4994972469040251302",
+          "name": "Slack"
+        },
+        "SKYPE": {
+          "char": "☎️",
+          "id": "4992613535562334989",
+          "name": "Skype"
+        },
+        "NETFLIX": {
+          "char": "🎥",
+          "id": "5431641055290235797",
+          "name": "Netflix"
+        },
+        "SPOTIFY": {
+          "char": "🎵",
+          "id": "5429235839244739644",
+          "name": "Spotify"
+        },
+        "AMAZONPRIME": {
+          "char": "📺",
+          "id": "6111801057061374810",
+          "name": "Amazon Prime"
+        },
+        "HOICHOI": {
+          "char": "🍿",
+          "id": "6104822598493801746",
+          "name": "Hoichoi"
+        },
+        "DARAZ": {
+          "char": "📦",
+          "id": "5336879280578138635",
+          "name": "Daraz"
+        },
+        "FOODPANDA": {
+          "char": "🐼",
+          "id": "5336879280578138635",
+          "name": "Foodpanda"
+        },
+        "PATHAO": {
+          "char": "🛵",
+          "id": "5336879280578138635",
+          "name": "Pathao"
+        },
+        "ALIEXPRESS": {
+          "char": "🛒",
+          "id": "5429513809528137281",
+          "name": "AliExpress"
+        },
+        "SHOPEE": {
+          "char": "🛍️",
+          "id": "5336879280578138635",
+          "name": "Shopee"
+        },
+        "PAYONEER": {
+          "char": "💳",
+          "id": "5336879280578138635",
+          "name": "Payoneer"
+        },
+        "WISE": {
+          "char": "🦉",
+          "id": "5336879280578138635",
+          "name": "Wise"
+        },
+        "CHATGPT": {
+          "char": "🤖",
+          "id": "5429503209548847635",
+          "name": "ChatGPT"
+        },
+        "NOTION": {
+          "char": "📓",
+          "id": "5336879280578138635",
+          "name": "Notion"
+        },
+        "GITHUB": {
+          "char": "🐙",
+          "id": "5417836094098007862",
+          "name": "GitHub"
+        },
+        "CANVA": {
+          "char": "🖌️",
+          "id": "5111661409008092227",
+          "name": "Canva"
+        },
+        "FIGMA": {
+          "char": "🎨",
+          "id": "5336879280578138635",
+          "name": "Figma"
+        },
+        "UPWORK": {
+          "char": "💼",
+          "id": "5336879280578138635",
+          "name": "Upwork"
+        },
+        "FIVERR": {
+          "char": "🟢",
+          "id": "5336879280578138635",
+          "name": "Fiverr"
+        },
+        "YAHOO": {
+          "char": "🌐",
+          "id": "5336879280578138635",
+          "name": "Yahoo"
+        },
+        "DROPBOX": {
+          "char": "☁️",
+          "id": "5336879280578138635",
+          "name": "Dropbox"
+        },
+        "COURSERA": {
+          "char": "📚",
+          "id": "5336879280578138635",
+          "name": "Coursera"
+        },
+        "DUOLINGO": {
+          "char": "🗣️",
+          "id": "5336879280578138635",
+          "name": "Duolingo"
+        },
+        "WHATSAPP BUSINESSES": {
+          "char": "💼",
+          "id": "5429534532745337203",
+          "name": "WhatsApp Businesses"
+        },
+        "OTHER": {
+          "char": "📶",
+          "id": "5429353834881261942",
+          "name": "Other"
+        },
+        "AMAZON PRIME": {
+          "char": "📺",
+          "id": "5431358656895568355",
+          "name": "Amazon Prime"
+        },
+        "HSBC": {
+          "char": "💄",
+          "id": "5402185559688912571",
+          "name": "Hsbc"
+        },
+        "1XBET": {
+          "char": "👌",
+          "id": "6210530664295434942",
+          "name": "1Xbet"
+        }
+      },
+      "custom_messages": {
+        "start": {
+          "text": "╔═══════════╗\n       📊 NUMBER BOT\n╚═══════════╝\n🚀 Welcome to Number & OTP Service\n━━━━━━━━━━━━\n✅ Choose an option below\nto continue using the bot.\n━━━━━━━━━━━━\n💎 Premium OTP Service",
+          "buttons": []
+        },
+        "get_number": {
+          "text": "<tg-emoji emoji-id=\"5352922460897452503\">📍</tg-emoji> Select a service:",
+          "buttons": []
+        },
+        "select_country": {
+          "text": "📌 Select a country for {service}:",
+          "buttons": []
+        },
+        "refer": {
+          "text": "➖➖➖➖➖➖➖\n« <tg-emoji emoji-id=\"5420396762189831222\">🎁</tg-emoji> REFER & EARN »\n➖➖➖➖➖➖➖\n<tg-emoji emoji-id=\"5420517437885943844\">🔗</tg-emoji> YOUR LINK:\n<code>{ref_link}</code>\n➖➖➖➖➖➖➖\n<tg-emoji emoji-id=\"5352861489541714456\">👤</tg-emoji> TOTAL REFERS: <b>{total_ref}</b>\n➖➖➖➖➖➖➖\n<tg-emoji emoji-id=\"5348469219761626211\">💸</tg-emoji> PER REFER: <b>{ref_reward} TK</b>\n➖➖➖➖➖➖➖",
+          "buttons": []
+        },
+        "withdrawal": {
+          "text": "➖➖➖➖➖➖➖\n《 😒 WITHDRAWAL 》\n➖➖➖➖➖➖➖\n👋 Total Otp: {total_otp}\n➖➖➖➖➖➖➖\n🫂 Total Reffer :{total_ref}\n➖➖➖➖➖➖➖\n📅 BALANCE: {bal}৳\n➖➖➖➖➖➖➖\n🔐 MINIMUM: {min_w} ৳\n➖➖➖➖➖➖➖\nSELECT METHOD:",
+          "buttons": []
+        },
+        "support": {
+          "text": "<tg-emoji emoji-id=\"5337302974806922068\">💬</tg-emoji> Contact us for any help:",
+          "buttons": []
+        }
+      },
+      "status_services": [],
+      "weekly_reset_at": 1792497204.3129957
+    },
+    "bot_data": {
+      "number_batches": {},
+      "used_numbers_list": [],
+      "total_uploaded_stats": 0,
+      "total_assigned_stats": 566,
+      "stex_assigned_numbers": {
+        "37455886302": 8708065446,
+        "37455813297": 8708065446,
+        "37455881430": 8708065446,
+        "37455882165": 8708065446,
+        "37455850338": 8708065446,
+        "37455819672": 8956792783,
+        "37455834678": 8956792783,
+        "37455846919": 8956792783,
+        "37455825542": 8956792783,
+        "37455839221": 8956792783,
+        "37455891566": 8627577152,
+        "37455851427": 8627577152,
+        "37455815154": 8627577152,
+        "37455887888": 8627577152,
+        "37455810803": 8627577152,
+        "37455882964": 8655279176,
+        "37455818923": 8655279176,
+        "37455895422": 8655279176,
+        "37455877937": 8655279176,
+        "37455812095": 8655279176,
+        "37455837003": 5311071547,
+        "37455852965": 5311071547,
+        "37455866830": 5311071547,
+        "37455841898": 5311071547,
+        "37455834148": 5311071547,
+        "37455833045": 2034985203,
+        "37455879733": 2034985203,
+        "37455885274": 2034985203,
+        "37455867410": 2034985203,
+        "37455883960": 2034985203,
+        "37455841621": 8313667804,
+        "37455879988": 8313667804,
+        "37455843516": 8313667804,
+        "37455835439": 8313667804,
+        "37455818448": 8313667804,
+        "37455839909": 6656018419,
+        "37455843099": 6656018419,
+        "37455895297": 6656018419,
+        "37455844844": 6656018419,
+        "37455895323": 6656018419,
+        "237624081617": 8166739986,
+        "237624075090": 8166739986,
+        "237624011765": 8166739986,
+        "237624051050": 6343655743,
+        "237624086136": 6343655743,
+        "237624078630": 6343655743,
+        "237624046563": 8166739986,
+        "237624099057": 8166739986,
+        "237624068288": 8166739986,
+        "37455837699": 8658924064,
+        "37455874950": 8658924064,
+        "37455896675": 8658924064,
+        "32468599324": 7560070404,
+        "32468597340": 7560070404,
+        "32468552605": 7560070404,
+        "237624034258": 8058866007,
+        "237624058373": 8058866007,
+        "237624083600": 8058866007,
+        "237624028029": 6343655743,
+        "237624045583": 6343655743,
+        "237624064417": 6343655743,
+        "32468594439": 6913448122,
+        "32468544911": 6913448122,
+        "32468565518": 6913448122
+      },
+      "voltx_assigned_numbers": {},
+      "zebrasms_assigned_numbers": {
+        "37455940552": 7999781546,
+        "37455968464": 7999781546,
+        "37455977992": 7999781546
+      },
+      "yesms_assigned_numbers": {},
+      "processed_otps": [
+        "OTP_37455976667_43956322",
+        "OTP_237624027376_636291",
+        "OTP_32468536351_549750",
+        "OTP_237624090008_587221",
+        "OTP_37455877796_545329",
+        "OTP_237624056942_797444",
+        "OTP_37455922684_34679958",
+        "OTP_37455947362_947577",
+        "OTP_37455854468_92767472",
+        "OTP_37455833307_969364",
+        "OTP_37455812480_448045",
+        "OTP_237624055424_764008",
+        "OTP_37455821111_574029",
+        "OTP_237624051050_410307",
+        "OTP_237624052439_738864",
+        "OTP_37455851144_434151",
+        "OTP_237624031373_755638",
+        "OTP_37455889961_171425",
+        "OTP_37455925368_21349255",
+        "OTP_237624064854_086626",
+        "OTP_32468571725_80814312",
+        "OTP_37455867010_14827659",
+        "OTP_237624055372_722783",
+        "OTP_37455832638_785883",
+        "OTP_37455959988_27163767",
+        "OTP_37455873927_828291",
+        "OTP_37455880250_528409",
+        "OTP_237624021280_023678",
+        "OTP_237624046181_439085",
+        "OTP_237624018175_044164",
+        "OTP_237624058842_07980609",
+        "OTP_37455813297_315725",
+        "OTP_37455230869_61518918",
+        "OTP_22896512326_521090"
+      ],
+      "assigned_number_rates": {
+        "251920767439": 0.05,
+        "251920757615": 0.05,
+        "251920905750": 0.05,
+        "251920920335": 0.05,
+        "251920801543": 0.05,
+        "251920910061": 0.05,
+        "251920643718": 0.05,
+        "251920624589": 0.05,
+        "251920137638": 0.05,
+        "251920462045": 0.05,
+        "251920107560": 0.05,
+        "251920114042": 0.05,
+        "251920247063": 0.05,
+        "251920244537": 0.05,
+        "251920396251": 0.05,
+        "251920624086": 0.05,
+        "251920614329": 0.05,
+        "251920746286": 0.05,
+        "251920675067": 0.05,
+        "249120742621": 0.5,
+        "249120733551": 0.5,
+        "249120767299": 0.5,
+        "249120731437": 0.5,
+        "249120739936": 0.5,
+        "249120748060": 0.5,
+        "249120717628": 0.5,
+        "249120728709": 0.5,
+        "249120791776": 0.5,
+        "249120731960": 0.5,
+        "249120752510": 0.5,
+        "249120734891": 0.5,
+        "251920629572": 0.05,
+        "251920720113": 0.05,
+        "251920955960": 0.05,
+        "249120795881": 0.5,
+        "249120766688": 0.5,
+        "249120717702": 0.5,
+        "251920104929": 0.05,
+        "251920157271": 0.05,
+        "251920919950": 0.05,
+        "37455959988": 0.05,
+        "37455929774": 0.05,
+        "37455925132": 0.05,
+        "37455920428": 0.05,
+        "37455986814": 0.05,
+        "37455947453": 0.05,
+        "37455974186": 0.05,
+        "37455932690": 0.05,
+        "37455939314": 0.05,
+        "37455922318": 0.05,
+        "37455989668": 0.05,
+        "37455986176": 0.05,
+        "37455937377": 0.05,
+        "37455961887": 0.05,
+        "37455976667": 0.05,
+        "251920836176": 0.05,
+        "251920754915": 0.05,
+        "251920269314": 0.05,
+        "251920908400": 0.05,
+        "251920255173": 0.05,
+        "251920451415": 0.05,
+        "37455940552": 0.05,
+        "37455968464": 0.05,
+        "37455977992": 0.05,
+        "251920503471": 0.05,
+        "251920258403": 0.05,
+        "251920137780": 0.05,
+        "249120796083": 0.5,
+        "249120731276": 0.5,
+        "249120722139": 0.5,
+        "249129313562": 0.5,
+        "249129265042": 0.5,
+        "249129342334": 0.5,
+        "249129634430": 0.5,
+        "249129740873": 0.5,
+        "249129637057": 0.5,
+        "249129703331": 0.5,
+        "249129324841": 0.5,
+        "249129857828": 0.5,
+        "249129112450": 0.5,
+        "249129831655": 0.5,
+        "249129224028": 0.5,
+        "249129578629": 0.5,
+        "249129118902": 0.5,
+        "249129665723": 0.5,
+        "249129532372": 0.5,
+        "249129271102": 0.5,
+        "249129192359": 0.5,
+        "249129713499": 0.5,
+        "249129519907": 0.5,
+        "249129100551": 0.5,
+        "249129313997": 0.5,
+        "249129857251": 0.5,
+        "249129678913": 0.5,
+        "249129515939": 0.5,
+        "249129219037": 0.5,
+        "249129799607": 0.5,
+        "249129329616": 0.5,
+        "249129804410": 0.5,
+        "249129847418": 0.5,
+        "249129648174": 0.5,
+        "249129186120": 0.5,
+        "249129823434": 0.5,
+        "251920187520": 0.05,
+        "251920115029": 0.05,
+        "251920571560": 0.05,
+        "251920222467": 0.05,
+        "251920263965": 0.05,
+        "251920224780": 0.05,
+        "251920377121": 0.05,
+        "251920632030": 0.05,
+        "251920394003": 0.05,
+        "37455930592": 0.05,
+        "37455947362": 0.05,
+        "37455924664": 0.05,
+        "251920528550": 0.05,
+        "251920878997": 0.05,
+        "251920912110": 0.05,
+        "37455918281": 0.05,
+        "37455912026": 0.05,
+        "37455941960": 0.05,
+        "37455922684": 0.05,
+        "37455934512": 0.05,
+        "37455965620": 0.05,
+        "251920951274": 0.05,
+        "251920416299": 0.05,
+        "251920286649": 0.05,
+        "251920463115": 0.05,
+        "251920428040": 0.05,
+        "251920783740": 0.05,
+        "251920612155": 0.05,
+        "251920338956": 0.05,
+        "251920975380": 0.05,
+        "251949033067": 0.05,
+        "251914290786": 0.05,
+        "251954863844": 0.05,
+        "251953117480": 0.05,
+        "251999709630": 0.05,
+        "251965156932": 0.05,
+        "251990489601": 0.05,
+        "251952528675": 0.05,
+        "251955814291": 0.05,
+        "251973012033": 0.0,
+        "251998644456": 0.0,
+        "251937157338": 0.0,
+        "251901626688": 0.05,
+        "251906423173": 0.05,
+        "251907201348": 0.05,
+        "37455993660": 0.05,
+        "37455986580": 0.05,
+        "37455948441": 0.05,
+        "37455334511": 0.05,
+        "37455978261": 0.05,
+        "37455230869": 0.05,
+        "37455371060": 0.05,
+        "37455926127": 0.05,
+        "37455313192": 0.05,
+        "37455768206": 0.05,
+        "37455324897": 0.05,
+        "37455891692": 0.05,
+        "249129743549": 0.5,
+        "249129183706": 0.5,
+        "249129119977": 0.5,
+        "251907559401": 0.05,
+        "251907232970": 0.05,
+        "251907444160": 0.05,
+        "251969732092": 0.05,
+        "251974442521": 0.05,
+        "251943666400": 0.05,
+        "251906729939": 0.05,
+        "251906763105": 0.05,
+        "251906718110": 0.05,
+        "251906780773": 0.05,
+        "251906776247": 0.05,
+        "251906719175": 0.05,
+        "37455334153": 0.05,
+        "37455919000": 0.05,
+        "37455754112": 0.05,
+        "37455663220": 0.05,
+        "37455294784": 0.05,
+        "37455398337": 0.05,
+        "37455924149": 0.05,
+        "37455997862": 0.05,
+        "37455948531": 0.05,
+        "37455971735": 0.05,
+        "37455920298": 0.05,
+        "37455925368": 0.05,
+        "249129325030": 0.5,
+        "249129619758": 0.5,
+        "249129811569": 0.5,
+        "249129878247": 0.5,
+        "249129458538": 0.5,
+        "249129586333": 0.5,
+        "263773239120": 0.05,
+        "263774392902": 0.05,
+        "263777733310": 0.05,
+        "263779012046": 0.05,
+        "263775090913": 0.05,
+        "263776159835": 0.05,
+        "263777639498": 0.05,
+        "263773408180": 0.05,
+        "263775070139": 0.05,
+        "263773500932": 0.05,
+        "263773501656": 0.05,
+        "263773300349": 0.05,
+        "37455941631": 0.05,
+        "37455973957": 0.05,
+        "263777007329": 0.05,
+        "263777136292": 0.05,
+        "263778885980": 0.05,
+        "37455847257": 0.05,
+        "37455852882": 0.05,
+        "37455812090": 0.05,
+        "37455828502": 0.05,
+        "37455825881": 0.05,
+        "37455842560": 0.05,
+        "37455869616": 0.05,
+        "37455838333": 0.05,
+        "37455834083": 0.05,
+        "37455842424": 0.05,
+        "37455832314": 0.05,
+        "37455859485": 0.05,
+        "37455884246": 0.05,
+        "37455873857": 0.05,
+        "37455876129": 0.05,
+        "37455865124": 0.05,
+        "37455831465": 0.05,
+        "37455849052": 0.05,
+        "37455851144": 0.05,
+        "37455853126": 0.05,
+        "37455889961": 0.05,
+        "37455860062": 0.05,
+        "37455878992": 0.05,
+        "37455872731": 0.05,
+        "37455854468": 0.05,
+        "37455832144": 0.05,
+        "37455886077": 0.05,
+        "37455871097": 0.05,
+        "37455883472": 0.05,
+        "37455847894": 0.05,
+        "37455814910": 0.05,
+        "37455861130": 0.05,
+        "37455844730": 0.05,
+        "37455828760": 0.05,
+        "37455877796": 0.05,
+        "37455877294": 0.05,
+        "37455873927": 0.05,
+        "37455890844": 0.05,
+        "37455820310": 0.05,
+        "37455822699": 0.05,
+        "37455860495": 0.05,
+        "37455845199": 0.05,
+        "37455832638": 0.05,
+        "37455833989": 0.05,
+        "37455864967": 0.05,
+        "37455859622": 0.05,
+        "37455822797": 0.05,
+        "37455819222": 0.05,
+        "37455878442": 0.05,
+        "37455821052": 0.05,
+        "37455891696": 0.05,
+        "37455859971": 0.05,
+        "37455842870": 0.05,
+        "37455873773": 0.05,
+        "37455864280": 0.05,
+        "37455895815": 0.05,
+        "37455874483": 0.05,
+        "37455869851": 0.05,
+        "37455827283": 0.05,
+        "37455898894": 0.05,
+        "37455872268": 0.05,
+        "37455888630": 0.05,
+        "37455821111": 0.05,
+        "37455893623": 0.05,
+        "37455828835": 0.05,
+        "37455834462": 0.05,
+        "37455841662": 0.05,
+        "37455856770": 0.05,
+        "37455843891": 0.05,
+        "37455832350": 0.05,
+        "37455872400": 0.05,
+        "37455898583": 0.05,
+        "37455813988": 0.05,
+        "37455886302": 0.05,
+        "37455813297": 0.05,
+        "37455881430": 0.05,
+        "37455882165": 0.05,
+        "37455850338": 0.05,
+        "37455869886": 0.05,
+        "37455858411": 0.05,
+        "37455820046": 0.05,
+        "37455842238": 0.05,
+        "37455814475": 0.05,
+        "37455858851": 0.05,
+        "37455814440": 0.05,
+        "37455833019": 0.05,
+        "37455879083": 0.05,
+        "37455825653": 0.05,
+        "37455861658": 0.05,
+        "37455874941": 0.05,
+        "37455817597": 0.05,
+        "37455861506": 0.05,
+        "37455816700": 0.05,
+        "37455840333": 0.05,
+        "37455853491": 0.05,
+        "37455877920": 0.05,
+        "37455847536": 0.05,
+        "37455851493": 0.05,
+        "37455899304": 0.05,
+        "37455880250": 0.05,
+        "37455881565": 0.05,
+        "37455861406": 0.05,
+        "37455832962": 0.05,
+        "37455889848": 0.05,
+        "37455867754": 0.05,
+        "37455813797": 0.05,
+        "37455823586": 0.05,
+        "37455865283": 0.05,
+        "37455819672": 0.05,
+        "37455834678": 0.05,
+        "37455846919": 0.05,
+        "37455825542": 0.05,
+        "37455839221": 0.05,
+        "37455833307": 0.05,
+        "37455836311": 0.05,
+        "37455866917": 0.05,
+        "37455845557": 0.05,
+        "37455889819": 0.05,
+        "37455897569": 0.05,
+        "37455878852": 0.05,
+        "37455871290": 0.05,
+        "37455816628": 0.05,
+        "37455817481": 0.05,
+        "37455817202": 0.05,
+        "37455853410": 0.05,
+        "37455891096": 0.05,
+        "37455867870": 0.05,
+        "37455881029": 0.05,
+        "37455891171": 0.05,
+        "37455873751": 0.05,
+        "37455866948": 0.05,
+        "37455849737": 0.05,
+        "37455827737": 0.05,
+        "37455844225": 0.05,
+        "37455847412": 0.05,
+        "37455859054": 0.05,
+        "37455866172": 0.05,
+        "37455846735": 0.05,
+        "37455851982": 0.05,
+        "37455869589": 0.05,
+        "37455881319": 0.05,
+        "37455862222": 0.05,
+        "37455851893": 0.05,
+        "37455818245": 0.05,
+        "37455818378": 0.05,
+        "37455819679": 0.05,
+        "37455874700": 0.05,
+        "37455828102": 0.05,
+        "32468221925": 0.05,
+        "32468220487": 0.05,
+        "32468255490": 0.05,
+        "32468261228": 0.05,
+        "32468220152": 0.05,
+        "32468288310": 0.05,
+        "32468278080": 0.05,
+        "32468261634": 0.05,
+        "32468263613": 0.05,
+        "32468292981": 0.05,
+        "32468271233": 0.0,
+        "32468295001": 0.0,
+        "32468279060": 0.0,
+        "32468241902": 0.0,
+        "32468288135": 0.0,
+        "32468517624": 0.05,
+        "32468512278": 0.05,
+        "32468518995": 0.05,
+        "32468518164": 0.05,
+        "32468513275": 0.05,
+        "32468566247": 0.05,
+        "32468558338": 0.05,
+        "32468582207": 0.05,
+        "32468542170": 0.05,
+        "32468544614": 0.05,
+        "37455891566": 0.05,
+        "37455851427": 0.05,
+        "37455815154": 0.05,
+        "37455887888": 0.05,
+        "37455810803": 0.05,
+        "37455847416": 0.05,
+        "37455886106": 0.05,
+        "37455844586": 0.05,
+        "37455894786": 0.05,
+        "37455832312": 0.05,
+        "37455882964": 0.05,
+        "37455818923": 0.05,
+        "37455895422": 0.05,
+        "37455877937": 0.05,
+        "37455812095": 0.05,
+        "37455837003": 0.05,
+        "37455852965": 0.05,
+        "37455866830": 0.05,
+        "37455841898": 0.05,
+        "37455834148": 0.05,
+        "37455833045": 0.05,
+        "37455879733": 0.05,
+        "37455885274": 0.05,
+        "37455867410": 0.05,
+        "37455883960": 0.05,
+        "37455898939": 0.05,
+        "37455886649": 0.05,
+        "37455825060": 0.05,
+        "37455871775": 0.05,
+        "37455838626": 0.05,
+        "32468581942": 0.05,
+        "32468533774": 0.05,
+        "32468589340": 0.05,
+        "32468565995": 0.05,
+        "32468587933": 0.05,
+        "37455878459": 0.05,
+        "37455813553": 0.05,
+        "37455812839": 0.05,
+        "37455833020": 0.05,
+        "37455818761": 0.05,
+        "37455841621": 0.05,
+        "37455879988": 0.05,
+        "37455843516": 0.05,
+        "37455835439": 0.05,
+        "37455818448": 0.05,
+        "37455839909": 0.05,
+        "37455843099": 0.05,
+        "37455895297": 0.05,
+        "37455844844": 0.05,
+        "37455895323": 0.05,
+        "237624082540": 0.04,
+        "237624051566": 0.04,
+        "237624085907": 0.04,
+        "237624077525": 0.04,
+        "237624016050": 0.04,
+        "237624081617": 0.04,
+        "237624075090": 0.04,
+        "237624011765": 0.04,
+        "237624031734": 0.04,
+        "237624038149": 0.04,
+        "237624084561": 0.04,
+        "237624064854": 0.04,
+        "237624079757": 0.04,
+        "237624022532": 0.04,
+        "237624046181": 0.04,
+        "237624065821": 0.04,
+        "237624013974": 0.04,
+        "237624030490": 0.04,
+        "237624077947": 0.04,
+        "237624053896": 0.04,
+        "237624051050": 0.04,
+        "237624086136": 0.04,
+        "237624078630": 0.04,
+        "237624029605": 0.04,
+        "237624039875": 0.04,
+        "237624024651": 0.04,
+        "237624046563": 0.04,
+        "237624099057": 0.04,
+        "237624068288": 0.04,
+        "237624041044": 0.04,
+        "237624017086": 0.04,
+        "237624097865": 0.04,
+        "237624042969": 0.04,
+        "237624054680": 0.04,
+        "237624046698": 0.04,
+        "237624018965": 0.04,
+        "237624020710": 0.04,
+        "237624049150": 0.04,
+        "237624018692": 0.04,
+        "237624021980": 0.04,
+        "237624031373": 0.04,
+        "237624041874": 0.04,
+        "237624066388": 0.04,
+        "237624029783": 0.04,
+        "237624042275": 0.04,
+        "237624073630": 0.04,
+        "237624052439": 0.04,
+        "237624065935": 0.04,
+        "237624020254": 0.04,
+        "237624090008": 0.04,
+        "237624033472": 0.04,
+        "237624014127": 0.04,
+        "237624055424": 0.04,
+        "33653141433": 0.5,
+        "33653169112": 0.5,
+        "33653128248": 0.5,
+        "33653144239": 0.5,
+        "33653170012": 0.5,
+        "33653114516": 0.5,
+        "33653121950": 0.5,
+        "33653184637": 0.5,
+        "33653166501": 0.5,
+        "33653170209": 0.5,
+        "33653197929": 0.5,
+        "33653192566": 0.5,
+        "33653920136": 0.5,
+        "33653986104": 0.5,
+        "33653986438": 0.5,
+        "33653991199": 0.5,
+        "33653929088": 0.5,
+        "33653986915": 0.5,
+        "33653977070": 0.5,
+        "33653990100": 0.5,
+        "33653979290": 0.5,
+        "237624056942": 0.04,
+        "237624045466": 0.04,
+        "237624097980": 0.04,
+        "237624082368": 0.04,
+        "237624080272": 0.04,
+        "237624027376": 0.04,
+        "237624058842": 0.04,
+        "237624016412": 0.04,
+        "237624035797": 0.04,
+        "237624049116": 0.04,
+        "237624017837": 0.04,
+        "237624098019": 0.04,
+        "237624021020": 0.04,
+        "237624050831": 0.04,
+        "237624040894": 0.04,
+        "237624035336": 0.04,
+        "237624075550": 0.04,
+        "237624098947": 0.04,
+        "237624070518": 0.04,
+        "237624074555": 0.04,
+        "237624043907": 0.04,
+        "237624065925": 0.04,
+        "237624064596": 0.04,
+        "237624073100": 0.04,
+        "237624021280": 0.04,
+        "237624024773": 0.04,
+        "237624061592": 0.04,
+        "33653168239": 0.5,
+        "33653193609": 0.5,
+        "33653151200": 0.5,
+        "237624092391": 0.04,
+        "237624026907": 0.04,
+        "237624024823": 0.04,
+        "237624028206": 0.04,
+        "237624073741": 0.04,
+        "237624097624": 0.04,
+        "237624082130": 0.04,
+        "237624023219": 0.04,
+        "237624078730": 0.04,
+        "33653164230": 0.5,
+        "33653160017": 0.5,
+        "33653159804": 0.5,
+        "237624064753": 0.04,
+        "237624079840": 0.04,
+        "237624010754": 0.04,
+        "37455897686": 0.05,
+        "37455813890": 0.05,
+        "37455884855": 0.05,
+        "37455837699": 0.05,
+        "37455874950": 0.05,
+        "37455896675": 0.05,
+        "237624098672": 0.04,
+        "237624078901": 0.04,
+        "237624074346": 0.04,
+        "32468599324": 0.05,
+        "32468597340": 0.05,
+        "32468552605": 0.05,
+        "237624034258": 0.04,
+        "237624058373": 0.04,
+        "237624083600": 0.04,
+        "237624028029": 0.04,
+        "237624045583": 0.04,
+        "237624064417": 0.04,
+        "32468594439": 0.05,
+        "32468544911": 0.05,
+        "32468565518": 0.05
+      }
+    }
+  },
+  "users": {
+    "6343655743": {
+      "user_id": 6343655743,
+      "balance": 23.840000000000124,
+      "total_refers": 0,
+      "total_otps": 19,
+      "banned": false,
+      "verified": false,
+      "display_name": "PRIME SK !!!",
+      "weekly_otps": 19
+    },
+    "8708065446": {
+      "user_id": 8708065446,
+      "balance": 0.39999999999999997,
+      "total_refers": 0,
+      "total_otps": 8,
+      "banned": false,
+      "verified": false,
+      "display_name": "Hossen",
+      "weekly_otps": 8
+    },
+    "7999781546": {
+      "user_id": 7999781546,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Reyan 🛡️"
+    },
+    "8658924064": {
+      "user_id": 8658924064,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "mahfuz"
+    },
+    "8956792783": {
+      "user_id": 8956792783,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Nayan Sana V"
+    },
+    "6296759977": {
+      "user_id": 6296759977,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "ARIYAN Aʜᴍᴇᴅ ☣️"
+    },
+    "8655279176": {
+      "user_id": 8655279176,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Jahid"
+    },
+    "8627577152": {
+      "user_id": 8627577152,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "User"
+    },
+    "5311071547": {
+      "user_id": 5311071547,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Md Kasim Ali"
+    },
+    "2034985203": {
+      "user_id": 2034985203,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Motiur"
+    },
+    "8313667804": {
+      "user_id": 8313667804,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Arafat"
+    },
+    "6656018419": {
+      "user_id": 6656018419,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "—͞Sɪғꫝᴛヅㅤ모¿?❄️󱢏"
+    },
+    "8950675524": {
+      "user_id": 8950675524,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "𝗭𝘆𝗻𝗲𝘅 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 💻"
+    },
+    "8166739986": {
+      "user_id": 8166739986,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Afif"
+    },
+    "8001616649": {
+      "user_id": 8001616649,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "SAIFUL"
+    },
+    "6462244447": {
+      "user_id": 6462244447,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Rizvy Rubaiyat Ronok"
+    },
+    "8653837572": {
+      "user_id": 8653837572,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Masud Karim"
+    },
+    "7521735582": {
+      "user_id": 7521735582,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "Fakrul Islam"
+    },
+    "6166678467": {
+      "user_id": 6166678467,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "$X Asadul islam 🍅🐾"
+    },
+    "8058866007": {
+      "user_id": 8058866007,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "User"
+    },
+    "7560070404": {
+      "user_id": 7560070404,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "User"
+    },
+    "6913448122": {
+      "user_id": 6913448122,
+      "balance": 0.0,
+      "total_refers": 0,
+      "total_otps": 0,
+      "banned": false,
+      "verified": false,
+      "display_name": "User"
+    }
+  },
+  "withdrawals": {
+    "W_DFACE5": {
+      "user_id": "6343655743",
+      "amount": 56.0,
+      "method": "bKash",
+      "status": "pending",
+      "timestamp": "2026-10-18T09:14:06.038633"
+    },
+    "W_61A97B": {
+      "user_id": "6343655743",
+      "amount": 254.0,
+      "method": "Nagad",
+      "status": "pending",
+      "timestamp": "2026-10-19T02:09:20.382275"
+    }
+  }
+}
